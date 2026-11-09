@@ -4,6 +4,12 @@
 **Serial no.:** 1  
 **Project title:** Firewall Configuration and Testing
 
+## Project pages
+
+- [Overview](docs/index.html)
+- [Method](docs/methodology.html)
+- [Results](docs/results.html)
+
 ## Project brief
 This project is about setting up a firewall to control traffic in a controlled environment. I used the idea behind Windows Defender Firewall and Linux UFW to build a simple but practical setup that blocks unwanted traffic while allowing only the services that are actually needed.
 
